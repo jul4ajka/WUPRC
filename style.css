@@ -105,7 +105,7 @@ body {
 /*about , header, footer*/
 
 header {
-    width: 90vw;
+    width: 100vw;
     height: 9vh;
     background-color: #485771;
     margin: 0 auto;
@@ -301,10 +301,10 @@ header {
 }
 
 #footer-menu {
-    width: 90vw;
-    height: 4vw;
-    background-color: #c2c8d1;
-    margin: 0 auto;
+	width: 100vw;
+	height: 4vw;
+	background-color: #c2c8d1;
+	margin: 0 auto;
 }
 
 #container3 {
@@ -340,7 +340,7 @@ header {
 }
 
 #copyright {
-    width: 90vw;
+	  width: 100vw;
     height: 4vh;
     background-color: #4e5054;
     margin: 0 auto;
@@ -544,7 +544,7 @@ input[type="button"]:active {
 
 #title_photo_img {
     margin: 0 auto;
-    width: 90vw;
+		width: 100vw;
     height: 80vh;
 }
 
