@@ -5,12 +5,12 @@
 
 @font-face {
     font-family: openSans_light;
-    src: url(fonts/OpenSans-Light.ttf);
+    src: url(../fonts/OpenSans-Light.ttf);
 }
 
 @font-face {
     font-family: openSans_regular;
-    src: url(fonts/OpenSans-Regular.ttf);
+    src: url(../fonts/OpenSans-Regular.ttf);
 }
 
 body {
